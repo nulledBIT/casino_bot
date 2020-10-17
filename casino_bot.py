@@ -5,7 +5,7 @@ import asyncio
 import random
 logging.basicConfig(level=logging.DEBUG)
 
-bot = Bot(token='844024366:AAEC88MVb2SNqfYD5JKKpJkpww7paNUr2PQ')
+bot = Bot(token='1372640546:AAGpBHUljMNvhJgfcNb9jZPhH_y53D97ALw')
 dp = Dispatcher(bot)
 game_started = False
 players = []
